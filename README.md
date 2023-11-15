@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my first Git Repository.
 <br>
-Author - Uday Kiran 
+Author - Uday Kiran (Apna clg)
